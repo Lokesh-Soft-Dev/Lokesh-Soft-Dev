@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=💫+Hey+there!+I'm+LOKESH+K+👋" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=💫+Hey+there!+I'm+LOKESH+K+👋" alt="Typing Animation Dark Mode" />
 </h1>
 
 
