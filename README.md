@@ -82,6 +82,6 @@
 
 ## 👋 Thanks for Checking Out My Work
 
-If you enjoyed my work, feel free to **follow** and explore more — I’m always building and sharing! 🚀
+<h3>If you enjoyed my work, feel free to **follow** and explore more — I’m always building and sharing! 🚀</h3>
 
 
