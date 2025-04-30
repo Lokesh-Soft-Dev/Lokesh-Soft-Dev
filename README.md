@@ -1,26 +1,45 @@
 <div align="center">
 
 <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #2c3e50;">💫 Hey there! I'm <span style="color:#0078D4;">LOKESH K</span> 👋</h1>
-<h3 style="font-weight: 500; color: #34495e;"> 💻 Full-Stack Web Developer | 🎨 Front-End Specialist | 🛠️ Back-End Builder
 
+<h3 style="font-weight: 500; color: #34495e;">💻 Full-Stack Web Developer | 🎨 Front-End Specialist | 🛠️ Back-End Builder</h3>
+<hr>
+
+🌟 Welcome to my GitHub profile! 
+I’m a **passionate full-stack developer** with strong expertise in **React**, **JavaScript**, **Sass**, and **Django**.  
+I love building **visually stunning**, **responsive**, and **user-centric applications** that combine **creativity** with **clean logic** and **scalable architecture**.  
+Always eager to **explore new technologies** and **solve real-world problems** through code.
 
 </div>
 
-🌟 Welcome to my GitHub profile! I’m a passionate web developer with strong expertise in **Front-End technologies** and solid command over **Back-End systems**. I enjoy crafting responsive, pixel-perfect UI and building scalable server-side logic using Python and Django.
-
----
+<hr>
 
 ## 🔥 About Me
 
-- 👨‍💻 I specialize in **Front-End development** using **HTML5, CSS3, Sass, Less, JavaScript, ReactJS**, and **Firebase**.
+- 💡 Focused on building modern web applications using **ReactJS, Sass, and Firebase**.
 - 🐍 Skilled in **Python Full-Stack Development** using **Django, SQL, and MySQL**.
-- 💼 Familiar with version control using **Git & GitHub**, deployment, and software environments.
-- 🧑‍🎓 MCA graduate, PMKVY-certified **Junior Software Developer**, trained at **Besant Technologies**.
-- 🖥️ Experienced across multiple **Operating Systems** and development tools.
+- 🧑‍🎓 MCA Graduate | PMKVY Certified **Junior Software Developer** | Trained at **Besant Technologies**.
+- ✅ Proficient with **Git & GitHub**, deployment tools, and version control workflows.
+- 🛠️ Experienced in cross-platform development and collaborative environments.
 
----
+<hr>
 
-## 🚀 Tech Stack
+## 🚀 Projects
+
+| Project                                                                                   | Tech Stack                          | Description                                                                 |
+|-------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------------------------------------------------------|
+| 🔗 [**TMDB Movie Explorer App**]()                | **React**, **TMDB API**, **Firebase** | A dynamic movie browser with **auth**, **dark mode**, and **protected routes**. |
+| 🔗 [**Travel Vlog Landing Page**]()                    | **HTML**, **CSS**, **Responsive**   | A visually rich page for **travel storytelling** and scenic exploration.   |
+| 🔗 [**Custom Music Player**]()                        | **HTML**, **CSS**, **JavaScript**   | A feature-packed player with **playlist**, **volume**, and **UI controls**. |
+| 🔗 [**To-Do JavaScript App**]()                           | **JavaScript**, **HTML**, **CSS**   | A sleek, **responsive** to-do list with **local storage** functionality.    |
+| 🔗 [**Gradient Showcase Page**]()                    | **HTML**, **CSS**                   | A simple tool to **preview** and **copy** stunning **CSS gradients**.       |
+
+
+> 🔥 Check out more on my [GitHub Repositories](https://github.com/your-username?tab=repositories)
+
+<hr>
+
+## 🧠 Tech Stack
 
 ### 🎨 Front-End & Styling
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,30 +61,34 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
-![WordPad](https://img.shields.io/badge/WordWrap-0078D4?style=for-the-badge&logo=microsoftword&logoColor=white)
 
-### 💻 Operating Systems
-![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
-![Windows 7](https://img.shields.io/badge/Windows%207-0057B8?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 8](https://img.shields.io/badge/Windows%208-00A4EF?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 8.1](https://img.shields.io/badge/Windows%208.1-00A4EF?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<hr>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
-- 🔗 [Portfolio Website](https://your-portfolio-link.com)
+- 🌐 [Portfolio Website](https://your-portfolio-link.com)
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 📧 Email: your.email@example.com
 
 ---
+## 💬 Inspirational Quote  
 
-## > _“The perfect combination of logic and creativity — that's the power of full-stack development.”_
-
-## ⭐ Thanks for visiting my profile! Don't forget to follow and check out my projects!
+> _**“Full-stack development is where **logic** meets **creativity** — turning ideas into powerful, scalable solutions.”**_
 
 ---
+
+## 👋 Thanks for Checking Out My Work
+
+If you enjoyed my work, feel free to **follow** and explore more — I’m always building and sharing! 🚀
+
+
