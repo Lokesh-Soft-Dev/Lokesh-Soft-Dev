@@ -4,13 +4,16 @@
 
 <h3 style="font-weight: 500; color: #34495e;">💻 Full-Stack Web Developer | 🎨 Front-End Specialist | 🛠️ Back-End Builder</h3>
 <hr>
-
-🌟 Welcome to my GitHub profile! 
-I’m a **passionate full-stack developer** with strong expertise in **React**, **JavaScript**, **Sass**, and **Django**.  
-I love building **visually stunning**, **responsive**, and **user-centric applications** that combine **creativity** with **clean logic** and **scalable architecture**.  
-Always eager to **explore new technologies** and **solve real-world problems** through code.
-
 </div>
+
+# 🌟 Welcome to My GitHub Profile!
+
+- Hi there! I’m a **passionate full-stack developer** with strong expertise in **React** ⚛️, **JavaScript** 💻, **Sass** 🎨, and **Django** 🐍.
+
+- I love crafting **visually stunning** 🎨, **responsive** 📱, and **user-centric applications** that blend **creativity** 🎯 with **clean logic** 💡 and **scalable architecture** 🌐.
+
+- Always eager to **explore new technologies** 🚀 and **solve real-world problems** 🧩 through code.
+
 
 <hr>
 
@@ -64,28 +67,18 @@ Always eager to **explore new technologies** and **solve real-world problems** t
 
 <hr>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 🌐 [Portfolio Website](https://your-portfolio-link.com)
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 📧 Email: your.email@example.com
+<hr>
 
----
 ## 💬 Inspirational Quote  
 
 > _**“Full-stack development is where **logic** meets **creativity** — turning ideas into powerful, scalable solutions.”**_
 
----
+<hr>
 
 ## 👋 Thanks for Checking Out My Work
 
