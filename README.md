@@ -1,9 +1,12 @@
 <div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=💫+Hey+there!+I'm+LOKESH+K+👋" alt="Typing Animation" />
+</h1>
 
-<h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #2c3e50;">💫 Hey there! I'm <span style="color:#0078D4;">LOKESH K</span> 👋</h1>
 
 <h3 style="font-weight: 500; color: #34495e;">💻 Full-Stack Web Developer | 🎨 Front-End Specialist | 🛠️ Back-End Builder</h3>
 <hr>
+
 </div>
 
 # 🌟 Welcome to My GitHub Profile!
@@ -76,7 +79,7 @@
 
 ## 💬 Inspirational Quote  
 
-> _**“Full-stack development is where **logic** meets **creativity** — turning ideas into powerful, scalable solutions.”**_
+ _**“Full-stack development is where **logic** meets **creativity** — turning ideas into powerful, scalable solutions.”**_
 
 <hr>
 
