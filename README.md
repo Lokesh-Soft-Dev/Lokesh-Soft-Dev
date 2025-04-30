@@ -31,21 +31,6 @@
 
 <hr>
 
-## 🚀 Projects
-
-| Project                                                                                   | Tech Stack                          | Description                                                                 |
-|-------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------------------------------------------------------|
-| 🔗 [**TMDB Movie Explorer App**]()                | **React**, **TMDB API**, **Firebase** | A dynamic movie browser with **auth**, **dark mode**, and **protected routes**. |
-| 🔗 [**Travel Vlog Landing Page**]()                    | **HTML**, **CSS**, **Responsive**   | A visually rich page for **travel storytelling** and scenic exploration.   |
-| 🔗 [**Custom Music Player**]()                        | **HTML**, **CSS**, **JavaScript**   | A feature-packed player with **playlist**, **volume**, and **UI controls**. |
-| 🔗 [**To-Do JavaScript App**]()                           | **JavaScript**, **HTML**, **CSS**   | A sleek, **responsive** to-do list with **local storage** functionality.    |
-| 🔗 [**Gradient Showcase Page**]()                    | **HTML**, **CSS**                   | A simple tool to **preview** and **copy** stunning **CSS gradients**.       |
-
-
-> 🔥 Check out more on my [GitHub Repositories](https://github.com/your-username?tab=repositories)
-
-<hr>
-
 ## 🧠 Tech Stack
 
 ### 🎨 Front-End & Styling
@@ -68,6 +53,21 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+<hr>
+
+## 🚀 Projects
+
+| Project                                                                                   | Tech Stack                          | Description                                                                 |
+|-------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------------------------------------------------------|
+| 🔗 [**TMDB Movie Explorer App**]()                | **React**, **TMDB API**, **Firebase** | A dynamic movie browser with **auth**, **dark mode**, and **protected routes**. |
+| 🔗 [**Travel Vlog Landing Page**]()                    | **HTML**, **CSS**, **Responsive**   | A visually rich page for **travel storytelling** and scenic exploration.   |
+| 🔗 [**Custom Music Player**]()                        | **HTML**, **CSS**, **JavaScript**   | A feature-packed player with **playlist**, **volume**, and **UI controls**. |
+| 🔗 [**To-Do JavaScript App**]()                           | **JavaScript**, **HTML**, **CSS**   | A sleek, **responsive** to-do list with **local storage** functionality.    |
+| 🔗 [**Gradient Showcase Page**]()                    | **HTML**, **CSS**                   | A simple tool to **preview** and **copy** stunning **CSS gradients**.       |
+
+
+> 🔥 Check out more on my [GitHub Repositories](https://github.com/your-username?tab=repositories)
 
 <hr>
 
