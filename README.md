@@ -1,9 +1,5 @@
 <div align="center">
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=💫+Hey+there!+I'm+LOKESH👋&weight=700" alt="Typing Animation Neon Green" />
-  </h1>
-  <h3 style="font-weight: 500; color: #34495e;">💻 Full-Stack Web Developer | 🎨 Front-End Specialist | 🛠️ Back-End Builder</h3>
-  <hr>
+  <h1>Hi there, I'm <a href="https://github.com/Lokesh" target="_blank">Lokesh 👋</a></h1>
 </div>
 
 # 🌟 Welcome to My GitHub Profile!
