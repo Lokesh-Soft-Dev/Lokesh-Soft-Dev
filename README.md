@@ -39,16 +39,6 @@
 
 <hr>
 
-## 🚀 Projects
-| Project                                                                                   | Tech Stack                          | Description                                                                 |
-|-------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------------------------------------------------------|
-| 🔗 [**TMDB Movie Explorer App**](#)         | **React**, **TMDB API**, **Firebase** | A dynamic movie browser with **auth**, **dark mode**, and **protected routes**. |
-| 🔗 [**Project Name**](#)                    | **Tech Stack**                       | Short description of what this project does.                                 |
-
-> 🔥 Check out more on my [GitHub Repositories](https://github.com/your-username?tab=repositories)
-
-<hr>
-
 ## 📫 Let's Connect
 - 🌐 [Portfolio Website](https://your-portfolio-link.com)
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
