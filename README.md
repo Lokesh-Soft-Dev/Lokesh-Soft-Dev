@@ -41,7 +41,7 @@
 
 ## 📫 Let's Connect
 - 🌐 [Portfolio Website](https://your-portfolio-link.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lokesh-k-990496378/)
 - 📧 Email: your.email@example.com
 
 <hr>
